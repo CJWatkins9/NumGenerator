@@ -8,3 +8,4 @@ def random_gen(min, max):
 
 random_gen(min, max)
 def
+print("ur gay")
