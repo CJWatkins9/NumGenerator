@@ -7,4 +7,4 @@ def random_gen(min, max):
     print("random number: " + str(number))
 
 random_gen(min, max)
-
+def
